@@ -7,4 +7,10 @@ git add folder/
 git add . - все содержимое в папке
 git status
 git rm --cached <file> - удалить с отслеживания
-git commit -m "comment" - сщздать комит с  комментарием
+git commit -m "comment" - создать коммит с  комментарием
+git log
+git log --oneline
+git remote add origin https://github.com/sigmade/commands
+git remote
+git push -u origin master
+
