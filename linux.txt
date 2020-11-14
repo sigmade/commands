@@ -1,0 +1,27 @@
+mkdir [name]	создать директорию
+cd [name]	перейти в директорию
+ls	содержимое каталога
+free -h	озу
+pwd	в каком каталоге сейчас находимся
+uptime	сколько времени включен пк/машина
+lscpu	данные о ЦП
+man -k [word]	поиск команд по слову
+man [command]	мануал о команде
+info [command]	
+whatis [command]	
+whereis [command]	
+sudo lsof -i -P -n 	прослушивание портов
+touch [name.txt]	создать файл
+cp [name.txt] [/path/]	скопировать файл  куда
+systemctl restart mssql-server.service"	
+sudo lshw -C memory	инфо о озу
+sudo system status [program]	
+cp -R  путькпапке  путькновомуместу	копировать папку с содержимым
+useradd  -m vasya	
+userdel –r vasya	
+/etc/skel    -  это шаблон домашней директории	
+passwd vasya   - изменить пароль для юзера vasya	
+groupadd Programmers  - создать группу Programmers	
+groupdel Programmers  - стереть группу Programmers	
+usermod –aG Programmers vasya  - добавить юзера vasya в группу Programmers	
+deluser vasya Programmers  - удалить юзера vasya  из групы Programmers	
