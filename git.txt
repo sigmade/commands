@@ -2,3 +2,9 @@ git config --global user.name sigmade
 git config user.name
 git config --global user.email sychyov1991@mail.ru
 git init
+git add file.html  - добавить файл в отслеживание
+git add folder/
+git add . - все содержимое в папке
+git status
+git rm --cached <file> - удалить с отслеживания
+git commit -m "comment"
