@@ -7,4 +7,4 @@ git add folder/
 git add . - все содержимое в папке
 git status
 git rm --cached <file> - удалить с отслеживания
-git commit -m "comment"
+git commit -m "comment" - сщздать комит с  комментарием
