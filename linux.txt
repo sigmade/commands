@@ -26,3 +26,6 @@ groupdel Programmers  - стереть группу Programmers
 usermod –aG Programmers vasya  - добавить юзера vasya в группу Programmers	
 deluser vasya Programmers  - удалить юзера vasya  из групы Programmers	
 sudo -i зайти под root
+
+tar -xvf folder.tar.gz  распаковать архив
+tar -cvzf folder.tar.gz ./ создать архив
